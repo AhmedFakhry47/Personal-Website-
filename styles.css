@@ -323,3 +323,11 @@ nav li:hover {
 button:hover {
   transform: scale(1.05);
 }
+
+#about-me img {
+  display: block;
+  max-width: 300px;
+  height: auto;
+  margin: 0 auto 20px;
+  border-radius: 50%;
+}
